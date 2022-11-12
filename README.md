@@ -1,16 +1,12 @@
 # Anodorhynchus hyacinthinus
-<img align="left" src="macaw.png" height="400">
-is a parrot native to central and eastern South America. A very beautiful one indeed! That's why I use it as my profile picture.
-
-------
-
-  I'm **Paulo Vinícius Bettio**, a dotNET programmer, graphic artist and game developer. I love testing new technologies, specially good ones. I love Linux and I love GNOME and GTK!
+<img align="left" src="macaw.png" width="300">
+... is a parrot native to central and eastern South America. A very beautiful one indeed! That's why I use it as my profile picture.
+</br></br>
+I'm **Paulo Vinícius Bettio**, a dotNET programmer, graphic artist and game developer. I love testing new technologies, specially good ones. I love Linux and I love GNOME and GTK!
 
 Making games is my passion, the main reason I'm a C# developer today is because I started to learn it way back when Unity was at version 4. And now, I'm developing games on Godot Engine.
 
 I'm also a graphic designer, and it has been my job for quite a while now. I work with vectorial art and website designs.
-
-
 
 ## The things I like
 
