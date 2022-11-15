@@ -1,8 +1,8 @@
-# Anodorhynchus hyacinthinus
+# I'm <b>Paulo Vinícius Bettio</b>, a dotNET programmer, graphic artist and game developer!
+
 <img align="left" src="macaw.png" width="300">
-... is a parrot native to central and eastern South America. A very beautiful one indeed! That's why I use it as my profile picture.
+The bird in the photo is a parrot native to central and eastern South America, called Arara Azul (Hyacinth Macaw). A very beautiful one! That's why I use it as my profile picture.
 </br></br>
-I'm **Paulo Vinícius Bettio**, a dotNET programmer, graphic artist and game developer. I love testing new technologies, specially good ones. I love Linux and I love GNOME and GTK!
 
 Making games is my passion, the main reason I'm a C# developer today is because I started to learn it way back when Unity was at version 4. And now, I'm developing games on Godot Engine.
 
@@ -29,8 +29,7 @@ I'm also a graphic designer, and it has been my job for quite a while now. I wor
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### OS
+### My OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
