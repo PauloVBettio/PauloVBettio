@@ -1,9 +1,5 @@
 # I'm <b>Paulo Vinícius Bettio</b>, a dotNET programmer, graphic artist and game developer!
 
-<img align="left" src="macaw.png" width="300">
-The bird in the photo is a parrot native to central and eastern South America, called Arara Azul (Hyacinth Macaw). A very beautiful one! That's why I use it as my profile picture.
-</br></br>
-
 Making games is my passion, the main reason I'm a C# developer today is because I started to learn it way back when Unity was at version 4. And now, I'm developing games on Godot Engine.
 
 I'm also a graphic designer, and it has been my job for quite a while now. I work with vectorial art and website designs.
